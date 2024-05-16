@@ -1,7 +1,7 @@
 {
   "name": "Utkarsh-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/dhecode",
+  "homepage": "/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
