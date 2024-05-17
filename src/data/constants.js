@@ -133,7 +133,7 @@ export const experiences = [
     role: "Software Engineering Intern",
     company: "Codezyng",
     date: "Jan 2024 - Current",
-    desc: " Programmed in Swift and developed with Swift UI, Firebase, CoreML, SQLite, gaining familiarity with iOS,macOS,visionOS.Crafted Landmarks app for iOS, tracking person details with smooth and aesthetic animations, and an EmployeeManagement System for macOS with separate profile pages for each person.",
+    desc: " Programmed in Swift and developed with Swift UI, Firebase, CoreML, SQLite, gaining familiarity with iOS,macOS, and visionOS.My work involves making these technologies operational, spanning across a diverse range of platforms and solutions",
 
     skills: ["Swift", "Swift UI", "MongodB","Firebase"],
   },
