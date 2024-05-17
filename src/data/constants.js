@@ -133,7 +133,7 @@ export const experiences = [
     role: "Software Engineering Intern",
     company: "Codezyng",
     date: "Jan 2024 - Current",
-    desc: " Programmed in Swift and developed with Swift UI, Firebase, CoreML, SQLite, gaining familiarity with iOS,macOS, and visionOS.My work involves making these technologies operational, spanning across a diverse range of platforms and solutions.",
+    desc: " • Programmed in Swift and developed with Swift UI, Firebase, CoreML, SQLite, gaining familiarity with iOS,macOS, and visionOS(XR,AR and VR)). My work involves making these technologies operational, spanning across a diverse range of platforms and solutions",
 
     skills: ["Swift", "Swift UI", "MongodB","Firebase"],
   },
@@ -168,7 +168,7 @@ export const education = [
     school: "NMAM Instituite Of Technology",
     date: "Jan 2020 - Jun 2024",
     grade:"7.83",
-    desc: "I have completed a Bachelor's degree in Information Science at NMAM Institute Of Technology, NItte. I completed the 4-year program with a CGPA of 7.71.",
+    desc: "I have completed a Bachelor's degree in Information Science at NMAM Institute Of Technology, NItte.",
     degree: "Bachelor of Engineering - Information Technology",
   },
 ];
