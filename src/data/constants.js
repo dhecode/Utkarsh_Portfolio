@@ -10,7 +10,7 @@ export const Bio = {
     "Aspiring SDE with a focus on Application and full-stack web development.",
   github: "https://github.com/dhecode",
   resume:
-    "https://drive.google.com/file/d/1FaEuUlCXUoskH3qLqNq1hqNbT1ooKJrN/view?usp=sharing",
+    "https://drive.google.com/file/d/1goXD2ue4JXMd6gsxeTcNtrr9I1rVbN8e/view?usp=drive_link",
 
   linkedin: "https://www.linkedin.com/in/utkarsh-75bb32215/",
 
