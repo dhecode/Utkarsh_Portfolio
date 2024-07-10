@@ -14,7 +14,7 @@ export const Bio = {
 
   linkedin: "https://www.linkedin.com/in/utkarsh-75bb32215/",
 
-  insta: "https://www.instagram.com/pratham_dev30?igsh=cnd4Nm5ucjhuNThk",
+  insta: "https://www.instagram.com/utka.rshhhhhh/",
 };
 ////////////////////////-------------Done---------------//////////////////////////////////////////////////////////////////////////////////
 
