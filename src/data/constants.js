@@ -167,7 +167,7 @@ export const education = [
     img: "https://images.shiksha.com/mediadata/images/1675666458php8tkscB.jpeg",
     school: "NMAM Instituite Of Technology",
     date: "Jan 2020 - Jun 2024",
-    grade:"7.83",
+    grade:"in",
     desc: "I have completed a Bachelor's degree in Information Science at NMAM Institute Of Technology, NItte.",
     degree: "Bachelor of Engineering - Information Technology",
   },
