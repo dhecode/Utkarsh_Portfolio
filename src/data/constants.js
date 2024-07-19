@@ -129,8 +129,8 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGQTIgaq-NHWQ/company-logo_200_200/0/1697603937841/codezyng_logo?e=1720656000&v=beta&t=01lorN-90kqUMirS1e8EwQNdvKTp1qq3j4h9wxhxmH0",
-    role: "Software Engineering Intern",
+    img: "https://media.licdn.com/dms/image/D4D0BAQGQTIgaq-NHWQ/company-logo_200_200/0/1697603937841/codezyng_logo?e=1729728000&v=beta&t=ZdXY13BMVpUUai_TwrSX4rTvnWAr3oS91kqG2pGO1gM",
+    role: "Software Engineer",
     company: "Codezyng",
     date: "Jan 2024 - Current",
     desc: " • Programmed in Swift and developed with Swift UI, Firebase, CoreML, SQLite, gaining familiarity with iOS,macOS, and visionOS(XR,AR and VR)). My work involves making these technologies operational, spanning across a diverse range of platforms and solutions",
@@ -139,7 +139,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C560BAQFZmDCQdr7CkQ/company-logo_200_200/0/1660735636338/athrv_ed_logo?e=1720656000&v=beta&t=DAY2ghLaijl0xP3XP1p8I0lYY56xjDrnowsR6pkfmF8",
+    img: "https://media.licdn.com/dms/image/C560BAQFZmDCQdr7CkQ/company-logo_200_200/0/1660735636338/athrv_ed_logo?e=1729728000&v=beta&t=X5jT9f6tSksLE1ghcYh8k0E_MhwOJkUESqDwYd031lI",
     role: "Full Stack Devloper",
     company: "Atrv-Ed",
     date: "June 2023",
