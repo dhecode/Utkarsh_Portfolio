@@ -5,7 +5,7 @@ import Amazon from "../images/Amazon.png";
 
 export const Bio = {
   name: "Utkarsh",
-  roles: ["Software Engineer", "Full Stack Developer", "Data"],
+  roles: ["Software Engineer", "Full Stack Developer", "Data Analayst"],
   description:
     "Aspiring SDE with a focus on Application and full-stack web development.",
   github: "https://github.com/dhecode",
