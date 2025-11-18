@@ -7,8 +7,8 @@ export const Bio = {
   name: "Utkarsh",
   roles: ["Software Engineer", "Full Stack Developer", "Data Analayst"],
   description:
-    "Aspiring SDE with a focus on Application and full-stack web development.",
-  github: "https://github.com/dhecode",
+    "Data & Software Engineering | Full Stack & App Developer | API Specialist | Driving Product Growth",
+  github: "https:/Data & Software Engineering | Full Stack & App Developer | API Specialist | Driving Product Growth/github.com/dhecode",
   resume:
     "https://drive.google.com/file/d/1goXD2ue4JXMd6gsxeTcNtrr9I1rVbN8e/view?usp=drive_link",
 
