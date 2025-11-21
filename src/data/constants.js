@@ -128,17 +128,18 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGQTIgaq-NHWQ/company-logo_200_200/0/1697603937841/codezyng_logo?e=1729728000&v=beta&t=ZdXY13BMVpUUai_TwrSX4rTvnWAr3oS91kqG2pGO1gM",
+    id: 1,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQGQTIgaq-NHWQ/company-logo_200_200/company-logo_200_200/0/1697603937841/codezyng_logo?e=1764806400&v=beta&t=w32lB1q4pAJ9_6wtMB0-p5geoT8WfWNAb0LKe9HpXi0",
     role: "Software Engineer",
     company: "Codezyng",
     date: "Jan 2024 - Current",
-    desc: " • Programmed in Swift and developed with Swift UI, Firebase, CoreML, SQLite, gaining familiarity with iOS,macOS, and visionOS(XR,AR and VR)). My work involves making these technologies operational, spanning across a diverse range of platforms and solutions",
+    desc: "Providing a wide range of solutions, including app development, where I build high-performance applications using Swift, SwiftUI, and UIKit, applying clean architectures (MVVM, MVC) to create scalable and maintainable solutions across iOS, macOS, and visionOS. I specialize in AR, VR, and XR technologies, leveraging RealityKit and ARKit to develop immersive experiences.With expertise in AVFoundation, I develop advanced audio systems supporting background audio, AirPlay, Core Audio processing, and seamless media integration. My solutions ensure high-quality playback and real-time audio processing for enhanced user engagement.I implement push notifications and Firebase Cloud Messaging to enable secure, real-time communication and optimize user engagement. Using Firebase Analytics, StoreKit, and robust security measures, I refine app performance and enhance the overall user experience.On the front end, I build responsive, user-friendly interfaces using ReactJS and AngularJS. On the back end, I work extensively with MySQL, PostgreSQL, and Firebase, while expanding my expertise in Spring Boot and Flask to develop scalable backend solutions.I design custom frameworks and universal solutions to improve cross-project flexibility and reusability. My cloud expertise includes AWS (Lambda, EC2, S3), Google Cloud, and Firebase Functions, ensuring efficient and scalable architectures.I optimize workflows with CI/CD pipelines using GitHub Actions, Xcode Cloud, and Terraform, automating build, test, and deployment processes. I also integrate Fastlane for smooth App Store releases and updates.I collaborate using Jira and Zoho Projects, following Agile methodologies to manage sprints and deliverables efficiently. I document workflows, APIs, and system designs using Excalidraw and Notion, ensuring streamlined development and continuous improvement.",
+
 
     skills: ["Swift", "Swift UI", "MongodB","Firebase"],
   },
   {
-    id: 1,
+    id: 2,
     img: "https://media.licdn.com/dms/image/C560BAQFZmDCQdr7CkQ/company-logo_200_200/0/1660735636338/athrv_ed_logo?e=1729728000&v=beta&t=X5jT9f6tSksLE1ghcYh8k0E_MhwOJkUESqDwYd031lI",
     role: "Full Stack Devloper",
     company: "Atrv-Ed",
@@ -148,7 +149,7 @@ export const experiences = [
     skills: ["ReactJS", "Material UI", "HTML", "CSS", "JavaScript"],
   },
   {
-    id: 2,
+    id: 3,
     img: "https://media.licdn.com/dms/image/C4E0BAQHTGbf5p2b1pg/company-logo_200_200/0/1647329307690?e=1721865600&v=beta&t=Jr14o9RrENhoN0ejIJgJyIuDAGVfiCrMM_oSwe1aP74",
     role: "Full Stack Devloper Intern",
     company: "SOLAR SECURE SOLUTIONS (UNDER MSME)",
@@ -167,7 +168,7 @@ export const education = [
     img: "https://images.shiksha.com/mediadata/images/1675666458php8tkscB.jpeg",
     school: "NMAM Instituite Of Technology",
     date: "Jan 2020 - Jun 2024",
-    grade:"in",
+    grade:"A",
     desc: "I have completed a Bachelor's degree in Information Science at NMAM Institute Of Technology, NItte.",
     degree: "Bachelor of Engineering - Information Technology",
   },
